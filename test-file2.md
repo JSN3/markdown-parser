@@ -1,4 +1,5 @@
 # Title
 
-[Link 1][https://ucsd.edu/]
-[Link 2][https://www.google.com/]
+[link1](https://ucsd.edu/)
+[link2](https://www.google.com/)
+[link3](https://github.com/)
