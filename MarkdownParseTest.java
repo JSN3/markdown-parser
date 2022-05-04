@@ -1,5 +1,7 @@
 import static org.junit.Assert.*;
 import java.util.ArrayList;
+import java.util.Arrays;
+
 import org.junit.*;
 import java.nio.file.Path;
 import java.nio.file.Files;
@@ -8,10 +10,10 @@ import java.io.IOException;
 
 public class MarkdownParseTest {
 
-    /* @Test
+    @Test
     public void addition() {
         assertEquals(3, 1 + 1);
-    } */
+    }
 
     @Test
     public void getLinksTest() throws IOException {
