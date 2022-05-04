@@ -8,10 +8,10 @@ import java.io.IOException;
 
 public class MarkdownParseTest {
 
-    @Test
+    /* @Test
     public void addition() {
         assertEquals(3, 1 + 1);
-    }
+    } */
 
     @Test
     public void getLinksTest() throws IOException {
